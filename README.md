@@ -2,7 +2,7 @@
 
 This file is called by Google Tag Manager and allows images on our website to change based on the list that the visitor is in inside of HubSpot.
 
-This works by injecting an invisitable 1px Smart CTA from HubSpot on the page, and then changing the website content with Javascript and Jquery based on infomration given from the HubSpot CTA.
+This works by injecting an invisiable 1px Smart CTA from HubSpot on the page, and then changing the website content with Javascript and Jquery based on infomration given about the visitor from the HubSpot CTA.
 
 <table>
 <tr> 

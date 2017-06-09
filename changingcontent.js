@@ -4,4 +4,17 @@
   var $a = document.getElementById("a");
   var $img = $a.getElementsByTagName("img")[0];
   console.log($img.alt);
-  if($img.alt == "Neither"){ $(document.getElementsByClassName('News')[0]).html('<div><a href="/wpck/17096/contact_sales" target="_blank"><img src="https://s23.postimg.org/8gcuzuz3v/chainflexicon.png" alt="I need a visit"><strong><br>Discover the power of chainflex<sup>®</sup></strong><br>Read about the latest innovations in high-flex cables</a></div>') }
+  if($img.alt == "Neither"){
+    $(document.getElementsByClassName('News')[0]).html('<div><a href="/wpck/17096/contact_sales" target="_blank"><img src="https://s23.postimg.org/8gcuzuz3v/chainflexicon.png" alt="I need a visit"><strong><br>Discover the power of chainflex<sup>®</sup></strong><br>Read about the latest innovations in high-flex cables</a></div>')
+    $(document.getElementsByClassName('News')[3]).html('<div><a href="/wpck/17096/contact_sales" target="_blank"><img src="https://s7.postimg.org/qm0drf4wb/catalog.png" alt="I need a visit"><strong><br>Check out the new chainflex<sup>®</sup> catalogs!</strong><br>Download the PDF or request a free copy!</a></div>')
+  }
+
+
+
+
+
+
+
+
+
+<div id="commercial"><a href="http://www.igus.com/chainflex"><img name="ImgAdve" id="ImgAdve" src="https://s2.postimg.org/czwd2jcp5/samplebanner.png" width="613" height="222" alt="" border="0"></a></div>

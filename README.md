@@ -1,4 +1,4 @@
-# Hubspot-Dynamic-Website
+# Hubspot Dynamic Website Sections
 
 This file is called by Google Tag Manager and allows images on our website to change based on the list that the visitor is in inside of HubSpot.
 
